@@ -1,2 +1,1 @@
-# smidig.tech
-Testside
+# Hei, Alf!
